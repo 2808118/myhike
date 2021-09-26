@@ -6,6 +6,5 @@ author:
 description: "Great site about Hiking and amazing views in Australia."
 
 # Build settings
-remote_theme: jekyll/minima
 
 theme: jekyll-theme-tactile
