@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About God
+title: About
 ---
 
 Some Markdown content describing your site.
