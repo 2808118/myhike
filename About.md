@@ -38,3 +38,5 @@ It is your opportunity to let us know all the details "about" your project:
 {% for animal in small_animals %}
 - {{ animal.name | upcase }}
 {% endfor %}
+
+{% include video-embed.html youtubeid="SWVjQsvQocA" %}
