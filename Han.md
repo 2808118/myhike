@@ -73,6 +73,16 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+
+
 ### 6. 高效绘制 [甘特图](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#9-甘特图)
 
 ```gantt
