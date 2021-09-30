@@ -130,6 +130,7 @@ cond(no)->op
 也许您还是一个 Markdown 语法的新手，在您完全熟悉它之前，我们在 **编辑区** 的顶部放置了一个如下图所示的工具栏，您可以使用鼠标在工具栏上调整格式，不过我们仍旧鼓励你使用键盘标记格式，提高书写的流畅度。
 
 ![tool-editor](https://www.zybuluo.com/static/img/toolbar-editor.png)
+![tool-editor](https://mmbiz.qpic.cn/mmbiz_png/gF7tftaPAzMXYdN5bW9ILGY8ziaQVttlTgFZBSRWDxwZ5LMF2aKhnoaQqlmsT1MvHbIweNAHUgF2K1Sdziaeibu4Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ### 3. 编辑模式
 
