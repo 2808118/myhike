@@ -1,5 +1,5 @@
 ---
-layout: dark
+layout: pages
 title: About
 example: This is an example value.
 ---
