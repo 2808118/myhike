@@ -1,10 +1,9 @@
 # Site settings
-title: Bigroo Hiking Club
+title: Great New Blog Title
 author:
-  name: Jiakang
-  email: h2808118@hotmail.com
-description: "Great site about Hiking and amazing views in Australia."
+  name: Evan Will
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
-
-theme: jekyll-theme-tactile
+remote_theme: jekyll/minima
