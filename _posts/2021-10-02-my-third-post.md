@@ -25,7 +25,7 @@ categories: demo
 
 [TOC]
 
-![This is a very good video]([YouTube](https://www.youtube.com/watch?v=VO3037-8Tmc))
+![This is a very good video](https://www.youtube.com/watch?v=VO3037-8Tmc)
 
 
 
