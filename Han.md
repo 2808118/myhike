@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hiking in the South
+title: Hiking Rules
 ---
 
 # 欢迎使用 Cmd Markdown 编辑阅读器
