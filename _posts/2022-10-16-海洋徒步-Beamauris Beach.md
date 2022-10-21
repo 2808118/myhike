@@ -6,7 +6,8 @@ categories: Hiking
 ---
 
 2022.10.16 《大袋鼠徒步俱乐部》活动信息 | 澳洲墨尔本 | 登山徒步系列 - Beaumaris Beach
-![logo](image:9B9DCE55-4791-463C-8C79-C4115D4AC733-75938-0000F93AAA48B9B1/640.jpg)
+
+![Bigroo Logo](https://user-images.githubusercontent.com/90954432/197183769-043b3cce-ffc5-439d-b355-fc227af37705.jpeg)
 
 **1. 徒步活动简介：**
 
@@ -29,8 +30,6 @@ categories: Hiking
 终点：Black Rock CarPark
 
 费用：5澳币
-
-![Uploading Collage_Fotor_Fotor.jpg…]()
 ___
 
 **二、徒步活动路线：**
@@ -243,6 +242,7 @@ ___
 [image:3F550A9F-3CDD-4F11-A94A-CE843C02B2F3-75938-0000F97487D94032/640.jpg]
 
 **扫码入群，添加微信：fund6787**
+
 **宜观星辰辨南北，勿随萤火逐东西**
 
 **2022.10.14**
