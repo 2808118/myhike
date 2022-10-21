@@ -5,7 +5,7 @@ tags: 海洋徒步
 categories: Hiking
 ---
 
-# 2022.10.16 《大袋鼠徒步俱乐部》活动信息 | 澳洲墨尔本 | 海洋徒步系列 - Beaumaris Beach
+2022.10.16 《大袋鼠徒步俱乐部》活动信息 | 澳洲墨尔本 | 登山徒步系列 - Beaumaris Beach
 [image:9B9DCE55-4791-463C-8C79-C4115D4AC733-75938-0000F93AAA48B9B1/640.jpg]
 
 **1. 徒步活动简介：**
@@ -68,9 +68,11 @@ ___
 **往期回顾：**
 
 **2022年10月**
- [1. 2022.10.02 活动信息｜澳洲墨尔本｜城市徒步系列 - Botanic Garden到MCG](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484978&idx=1&sn=ed5136a1de4c66e2b13caea309ebb671&chksm=f9f31849ce84915fcc661481be2e4f021e4929eea9809e1e76e5d5bcb7be9de2da93369bdbbc&scene=21#wechat_redirect) 
 
-~2.  ~ [2022.10.09 活动信息 ｜ 澳洲墨尔本 ｜海滩徒步系列 - Lysterfield Park](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247485002&idx=1&sn=bbd47773ef48aaa6c63583dbb5efd88c&chksm=f9f31831ce849127d1a1f4dae22a577972e7fadcefa2182df92c0480116aa26773c8241231fe&scene=21#wechat_redirect) 
+[1. 2022.10.02 活动信息｜澳洲墨尔本｜城市徒步系列 - Botanic Garden到MCG](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484978&idx=1&sn=ed5136a1de4c66e2b13caea309ebb671&chksm=f9f31849ce84915fcc661481be2e4f021e4929eea9809e1e76e5d5bcb7be9de2da93369bdbbc&scene=21#wechat_redirect) 
+
+[2. 2022.10.09 活动信息 ｜ 澳洲墨尔本 ｜海滩徒步系列 - Lysterfield Park](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247485002&idx=1&sn=bbd47773ef48aaa6c63583dbb5efd88c&chksm=f9f31831ce849127d1a1f4dae22a577972e7fadcefa2182df92c0480116aa26773c8241231fe&scene=21#wechat_redirect) 
+
 **2022年09月**
 
  [1. 2022.09.04 活动信息｜澳洲墨尔本｜海滩徒步系列 - Brighton Beach](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484887&idx=1&sn=0ac1c26615f42f2a8bfa5de6650e3f2d&chksm=f9f31bacce8492ba566188217e312eb29b93f333f2b650b313fba42171b23d0ea55c531fa0f0&scene=21#wechat_redirect) 
@@ -79,7 +81,7 @@ ___
 
  [3. 2022.09.18 活动信息｜澳洲墨尔本｜海滩徒步系列 - Albert Park到Station Pier ](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484932&idx=1&sn=ca58606ae0c386a7b02e8d8dd2d00980&chksm=f9f3187fce84916931f9254bd5887992e0399a27b5e3ec575fc4faeaa387e3255c17dde78012&scene=21#wechat_redirect) 
 
-~ Hasting~ [4. 2022.09.23 活动信息｜澳洲墨尔本｜海滩徒步系列 - ](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484955&idx=1&sn=8332e3ba1528657ddd38b4ef9629e32d&chksm=f9f31860ce8491765247027b6ff8deaae1e239dfcfc877ae91a7602053489afdca6f304932aa&scene=21#wechat_redirect) 
+[4. 2022.09.23 活动信息｜澳洲墨尔本｜海滩徒步系列 - ](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484955&idx=1&sn=8332e3ba1528657ddd38b4ef9629e32d&chksm=f9f31860ce8491765247027b6ff8deaae1e239dfcfc877ae91a7602053489afdca6f304932aa&scene=21#wechat_redirect) 
 
 **2022年08月**
 
@@ -93,50 +95,49 @@ ___
 
 **2021年06月**
 
-~1、2021.06.13 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Werribee Park~
+1、2021.06.13 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Werribee Park
 
 **2021年05月**
 
-~1、2021.05.02 活动信息 | 澳洲墨尔本 | 城市徒步系列 - Prahran Market~
+1、2021.05.02 活动信息 | 澳洲墨尔本 | 城市徒步系列 - Prahran Market
 
-~2、2021.05.09 活动信息 | 澳洲墨尔本 | 城市徒步系列 - YouYang National Park~
+2、2021.05.09 活动信息 | 澳洲墨尔本 | 城市徒步系列 - YouYang National Park
 
 **2021年04月**
 
-~1、2021.04.04 活动信息 | 澳洲墨尔本 | 登山徒步系列 - Youyang National Park~
+1、2021.04.04 活动信息 | 澳洲墨尔本 | 登山徒步系列 - YOUYANG National Park
 
-~2、2021.04.17 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Daylesford lake~
+2、2021.04.17 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Daylesford lake
 
-~3、2021.04.18 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Yarra Bend Walk~
+3、2021.04.18 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Yarra Bend Walk
 
-~4、2021.04.25 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - City Bridge Walk~
+4、2021.04.25 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - City Bridge Walk
 
 **2021年03月**
 
-~1、2021.03.07 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Lysterfield Lake~
+1、2021.03.07 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Lysterfield Lake
 
-~2、2021.03.14 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Creswick National Park~
+2、2021.03.14 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Creswick National Park
 
-~3、2021.03.21 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Maribyrnong River~
+3、2021.03.21 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Maribyrnong River
 
 **2021年02月**
 
-~1、2021.02.21 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Warradyte State Park~
+1、2021.02.21 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Warradyte State Park
 
-~2、2021.02.28 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Sugarloaf Reservior~
+2、2021.02.28 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Sugarloaf Reservior
 
 **2021年01月**
 
 1、 [2021.01.03 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Lake Daylesford](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484310&idx=1&sn=ce20fb713f5b399c51ea1f78a3c9b266&chksm=f9f31dedce8494fb111b025b0a3ba57844c541ffd668d813e68c725da5d36e11d781125aadf7&scene=21#wechat_redirect) 
 
-2、~2021.01.24 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Woodlands Historic Park~
+2、2021.01.24 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Woodlands Historic Park
 
 **2020年12月**
 
-1、~2020.12.06 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Serendip~
-~Sanctuary~
+1、2020.12.06 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Serendip Sanctuary
 
-2、~2020.12.27 活动信息 | 澳洲墨尔本 | 海岸徒步系列 - Williams Town~
+2、2020.12.27 活动信息 | 澳洲墨尔本 | 海岸徒步系列 - Williams Town
 
 **2020年11月**
 
@@ -144,13 +145,14 @@ ___
 
 2、 [2020.11.21 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Ballarat](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484188&idx=1&sn=adf30f06a315bfafb6f60df23f4bd6fb&chksm=f9f31d67ce849471f80c84aa47f60ab1cfc950da2b9b15aa8123e49959a682d398b76471963a&scene=21#wechat_redirect) 
 
-3、~2020.11.29 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Plenty Gorge Park~
+3、2020.11.29 活动信息 | 澳洲墨尔本 | 大陆徒步系列 - Plenty Gorge Park
 
 **2020年01月**
 
 1、 [2020.01.05 活动总结 | 澳洲墨尔本 | 城市徒步系列 - Geelong](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247483957&idx=1&sn=481c972783f41553c1e26cba7f68dec1&chksm=f9f31c4ece849558bb411b27e4798328dd7905091e9567135191f07b2bc610d4ac2adc5c6a93&scene=21#wechat_redirect) 
 
 2、 [2020.01.12 活动通知 | 澳洲墨尔本 | 海滩徒步系列 - Werribee South Beach](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247483969&idx=1&sn=5be059c34233d2196c01ba806a820efe&chksm=f9f31c3ace84952c7808013189e64b4281a6b6be7b7d681f731252f907a28ae82adb0cbfb27f&scene=21#wechat_redirect) 
+
 3、 [2019.01.26 活动通知 | 海滩徒步之旅 - Albert Park - Brighton Beach](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247483977&idx=1&sn=8a59f6de4a6b4fdec3986c53b52f307b&chksm=f9f31c32ce849524d2aef298c315c1c14dd2ba7e7ab38e7bb360b35a2eb0af0182eafd299f5d&scene=21#wechat_redirect) 
 
 **2019年12月**
@@ -158,26 +160,34 @@ ___
 1-1、 [2019年终活动总结 | 大洋路徒步系列 - Lorne（1/3）](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247483744&idx=1&sn=5fe01b697d309cf6d8b1036d963e0496&chksm=f9f31f1bce84960d08a839a6143c639b7b941aca1803767a6e5ce63fa205f64565daf0e64d2d&scene=21#wechat_redirect) 
 
 1-2、 [2019年终活动总结 | 大洋路徒步系列 - Lorne（2/3）](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247483749&idx=1&sn=904dff0c03fd1049cc7ece5e601c4e62&chksm=f9f31f1ece849608925b468fae92c95c18b2f23f966c95fa1d41a8733472533385956abb9317&scene=21#wechat_redirect) 
+
 1-3、 [2019年终活动总结 | 大洋路徒步系列 - Lorne（3/3）](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247483750&idx=1&sn=681816103cb4d77e3d14f6f80e1a6d2e&chksm=f9f31f1dce84960b7827a9091184e8fa570c677cc0166d0a54a71661d3f37ba994c4381b4afc&scene=21#wechat_redirect) 
 
-2、~2019.12.22 活动通知 | 野外环山徒步之旅 - Hanging Rock~
-3、~2019.12.14 活动通知 | 大洋路徒步之旅 - Lorne~
-4、~2019.12.08 活动通知 | 野外环山徒步之旅 - YouYang Regional Park~
+2、2019.12.22 活动通知 | 野外环山徒步之旅 - Hanging Rock
+
+3、2019.12.14 活动通知 | 大洋路徒步之旅 - Lorne
+
+4、2019.12.08 活动通知 | 野外环山徒步之旅 - YouYang Regional Park
 
 **2019年11月**
 
-1、~2019.11.24 活动通知 | 野外环山徒步之旅 - Silvan Reservoir Hike~
-2、~2019.11.17 活动通知 | 城市徒步系列 - WesterFolds Park 10公里徒步~
-3、~2019.11.10 活动通知 | 登山徒步系列 - SkyHigh Mount Dandenong10公里徒步~
-4、~2019.11.03 活动通知 | 登山徒步系列 - Brimbank Park10公里徒步~
+1、2019.11.24 活动通知 | 野外环山徒步之旅 - Silvan Reservoir Hike
+
+2、2019.11.17 活动通知 | 城市徒步系列 - WesterFolds Park 10公里徒步
+
+3、2019.11.10 活动通知 | 登山徒步系列 - SkyHigh Mount Dandenong10公里徒步
+
+4、2019.11.03 活动通知 | 登山徒步系列 - Brimbank Park10公里徒步
 
 **2019年10月**
 
-1、~2019.10.27 活动通知 | 城市徒步系列 - Williamstown出海口10公里徒步~
-~2、2019.10.20 活动通知 | 城市徒步之旅 - Maribyrnong River公园之旅~
+1、2019.10.27 活动通知 | 城市徒步系列 - Williamstown出海口10公里徒步
 
-3、~2019.10.12 活动通知 | 野外环山之旅 Dandenong Mountain徒步~
-4、~2019.10.06 活动通知 | 城市徒步之旅系列-亚拉河畔的十公里徒步~
+2、2019.10.20 活动通知 | 城市徒步之旅 - Maribyrnong River公园之旅
+
+3、2019.10.12 活动通知 | 野外环山之旅 Dandenong Mountain徒步
+
+4、2019.10.06 活动通知 | 城市徒步之旅系列-亚拉河畔的十公里徒步
 
 **2019年09月**
 
