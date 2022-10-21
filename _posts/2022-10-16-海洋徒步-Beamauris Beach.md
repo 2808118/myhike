@@ -97,12 +97,13 @@ ___
  [4. 2022.08.27 活动信息｜澳洲墨尔本｜登山徒步系列 - Sherbrook Fall](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484859&idx=1&sn=70e596e4b91c9efe09e97136aa120efe&chksm=f9f31bc0ce8492d66b9c238f4bd299a2e41f9aadfcbd155b01b77f521229ef12aaf755f46504&scene=21#wechat_redirect) 
 
 <img width="543" alt="大袋鼠活动准则20190430" src="https://user-images.githubusercontent.com/90954432/197184791-50268d4a-839c-42a5-b42f-957043f80b9d.png">
+
 __
 
-![640](https://user-images.githubusercontent.com/90954432/197184555-b5b5ec10-1b51-4814-ba33-082bf7925316.jpg)
+<p align="center">![640](https://user-images.githubusercontent.com/90954432/197184555-b5b5ec10-1b51-4814-ba33-082bf7925316.jpg)</p>
 
-**扫码入群，添加微信：fund6787**
+<p align="center">**扫码入群，添加微信：fund6787**</p>
 
-**宜观星辰辨南北，勿随萤火逐东西**
+<p align="center">**宜观星辰辨南北，勿随萤火逐东西**</p>
 
-**2022.10.14**
+<p align="right">**2022.10.14**</p>
