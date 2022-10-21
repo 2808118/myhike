@@ -100,7 +100,9 @@ ___
 
 __
 
-<p align="center">![640](https://user-images.githubusercontent.com/90954432/197184555-b5b5ec10-1b51-4814-ba33-082bf7925316.jpg)</p>
+<p align="center">
+ <img width="200" src="https://user-images.githubusercontent.com/90954432/197184555-b5b5ec10-1b51-4814-ba33-082bf7925316.jpg" alt="SQ logo">
+</p>
 
 <p align="center">**扫码入群，添加微信：fund6787**</p>
 
