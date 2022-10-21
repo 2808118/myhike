@@ -30,6 +30,7 @@ categories: Hiking
 
 费用：5澳币
 
+![Uploading Collage_Fotor_Fotor.jpg…]()
 ___
 
 **二、徒步活动路线：**
