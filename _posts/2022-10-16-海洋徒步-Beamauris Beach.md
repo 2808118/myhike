@@ -10,6 +10,7 @@ categories: Hiking
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90954432/197183769-043b3cce-ffc5-439d-b355-fc227af37705.jpeg", width="543">
 </p>
+
 **1. 徒步活动简介：**
 
 活动名称：海滩徒步系列 - Beaumaris Beach
