@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My First Hikingg Post
-tags: first markdown example
+title: 2022.10.16 Beaumaris Beach
+tags: 海洋徒步
 categories: Hiking
 ---
 
-# 2022.10.16 《大袋鼠徒步俱乐部》活动信息 | 澳洲墨尔本 | 登山徒步系列 - Beaumaris Beach
+# 2022.10.16 《大袋鼠徒步俱乐部》活动信息 | 澳洲墨尔本 | 海洋徒步系列 - Beaumaris Beach
 [image:9B9DCE55-4791-463C-8C79-C4115D4AC733-75938-0000F93AAA48B9B1/640.jpg]
 
 **1. 徒步活动简介：**
