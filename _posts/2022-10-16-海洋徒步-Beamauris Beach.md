@@ -4,10 +4,8 @@ title: 2022.10.16 《大袋鼠徒步俱乐部》 | 澳洲墨尔本 | 登山系�
 tags: 海洋徒步
 categories: Hiking
 ---
-<h3 align="center">Bigroo Hiking Club</h3>
-
 <p align="center">
-  <img width="543" src="https://user-images.githubusercontent.com/90954432/197183769-043b3cce-ffc5-439d-b355-fc227af37705.jpeg">
+  <img width="250" src="https://user-images.githubusercontent.com/90954432/197183769-043b3cce-ffc5-439d-b355-fc227af37705.jpeg">
 </p>
 
 **1. 徒步活动简介：**
