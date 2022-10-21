@@ -8,7 +8,7 @@ categories: Hiking
 <h3 align=center>2022.10.16 《大袋鼠徒步俱乐部》活动信息|澳洲墨尔本|登山徒步系列 - Beaumaris Beach</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90954432/197183769-043b3cce-ffc5-439d-b355-fc227af37705.jpeg">
+  <img width="543" src="https://user-images.githubusercontent.com/90954432/197183769-043b3cce-ffc5-439d-b355-fc227af37705.jpeg">
 </p>
 
 **1. 徒步活动简介：**
