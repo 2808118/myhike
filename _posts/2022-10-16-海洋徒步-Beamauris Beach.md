@@ -101,7 +101,6 @@ ___
 <p align="center">
 <img width="543" alt="大袋鼠活动准则20190430" src="https://user-images.githubusercontent.com/90954432/197184791-50268d4a-839c-42a5-b42f-957043f80b9d.png">
 </p>
-___
 
 <p align="center">
  <img width="200" src="https://user-images.githubusercontent.com/90954432/197184555-b5b5ec10-1b51-4814-ba33-082bf7925316.jpg" alt="SQ logo">
