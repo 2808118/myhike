@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022.10.16 《大袋鼠徒步俱乐部》活动信息 | 澳洲墨尔本 | 登山徒步系列 - Beaumaris Beach
+title: 2022.10.16 《大袋鼠徒步俱乐部》 | 澳洲墨尔本 | 登山系列 - Beaumaris Beach
 tags: 海洋徒步
 categories: Hiking
 ---
@@ -41,7 +41,7 @@ ______________________________________________________________________________
 
 这是距离市区比较近的海滩，不但有舒服的沙滩，在一些地方，悬崖凸起，还能从高处远望整个飞利浦海湾。走过一次，没有尽兴，可以再走一次，再仔细体验一下这里的开阔。
 
-![6301665745073_ pic_hd](https://user-images.githubusercontent.com/90954432/197184161-02a02bab-fbfd-4e84-ac9a-c32293e19a47.jpg)
+![Hiking Route](https://user-images.githubusercontent.com/90954432/197184161-02a02bab-fbfd-4e84-ac9a-c32293e19a47.jpg)
 
 **三、出发地点：**
 
@@ -49,7 +49,7 @@ ______________________________________________________________________________
 
 Black Rock Car Park（红框部分）
 
-![6311665745118_ pic_hd](https://user-images.githubusercontent.com/90954432/197184195-39248727-e91f-44ae-bcec-91dfb99841a3.jpg)
+![Parking Spot](https://user-images.githubusercontent.com/90954432/197184195-39248727-e91f-44ae-bcec-91dfb99841a3.jpg)
 
 2. 公共交通
 
