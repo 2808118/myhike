@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 **四、主要景点**
 
-<p style="color:grey"><strong>1. Black Rock Garden</strong></p>
+<p style="color:#BEBEBE;"><strong>1. Black Rock Garden</strong></p>
 
 ![6321665745207_ pic_hd](https://user-images.githubusercontent.com/90954432/197184240-524bf429-9ece-4d1e-b214-481a1faa3ffc.jpg)
 
