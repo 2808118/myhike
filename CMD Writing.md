@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rules
+title: CMD Writing
 ---
 
 # 欢迎使用 Cmd Markdown 编辑阅读器
