@@ -70,7 +70,7 @@ Churchill National Park Carpark（红框部分）
 
 ---
 
-<p><strong>往期回顾:</strong></p>
+<p style="center"><strong>五. 往期回顾:</strong></p>
 
 **2022年10月**
 
