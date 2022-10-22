@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022.10.16 《大袋鼠徒步俱乐部》 | 澳洲墨尔本 | 登山系列 - Beaumaris Beach
+title: 2022.10.16 <海洋系列> Beaumaris Beach (澳洲墨尔本)
 tags: 海洋徒步
 categories: Hiking
 ---
