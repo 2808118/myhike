@@ -1,36 +1,24 @@
 ---
 layout: page
-title: About
+title: 关于徒步
 ---
+## 关于创办徒步群的初衷
 
-Some Markdown content describing your site.
+有好山好水的地方，最好的休闲娱乐是到处走一走。
 
-## About About Pages
+墨尔本地区，分布着众多的美丽景色。
 
-The About page is a common convention found on websites.
-It is your opportunity to let us know all the details "about" your project:
+从舒服广阔的海滩，到绿树成荫的森林，再到延绵不绝的山脉，早晚不同，阴晴不同，四季不同。
 
-- focus and topic area
-- people involved
-- code and projects used
+在国内就有着到处走走的习惯，每逢周末，总是会约上朋友，逛一逛北京周边的山山水水，寺庙道观。
 
-# 欢迎使用markdown阅读编辑器
-- - - -
+澳洲的景色和国内有很大不同，国内主要以人文为主。
 
-## 高效记录思想
+有座山的地方，就有寺庙；有水的地方，就有人家。
 
-我们理解，每个人都需要高效的记录思想，整理笔记、知识，并将其中的精华传承给其他人。**Markdown**给出了一个完美的答案。从此之后，写小说，记录伟大的思想，不再是一个问题。
+而澳洲的景色，主要以自然景观为主。
 
-同时，你还可以用*Markdown*做以下几件事情：
+墨尔本的朋友没有那么多，"独乐乐，不如众乐乐“。
 
-> *  整理知识  
-> *  发布日记，杂文，所见所想  
-> *  撰写发布技术文稿  
-> *  撰写发布学术论文  
-
-除了现在用的这个版本的Bear，你还可以前往下面网址下载：
-### [Windows / Mac / IOS] (www.google.com.au)
-
-> 我们理解，每个人都需要高效的记录思想，整理笔记、知识，并将其中的精华传承给其他人。**Markdown**给出了一个完美的答案。从此之后，写小说，记录伟大的思想，不再是一个问题。<i class="icon-file"></i> **New file**或者使用快捷键 ‘ctrl + alt + N’。  
-
-- - - -
+徒步
+徒步群
