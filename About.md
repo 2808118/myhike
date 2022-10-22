@@ -26,7 +26,7 @@ title: 关于徒步
 
 我们把人与人之间的关系定义为"**徒步关系**"，用这份简单留给每个参与的人们一段值得回味的经历。
 
-!<img src="https://user-images.githubusercontent.com/90954432/197323871-9089165c-e007-4183-a411-0ed73cae04eb.png" alt="行走“ width="543">
+<img src="https://user-images.githubusercontent.com/90954432/197323871-9089165c-e007-4183-a411-0ed73cae04eb.png" alt="行走“ width="543">
 
 __________
 @Melbourne
