@@ -77,6 +77,8 @@ ________________________________________________________________________________
 
 [3. 2022.10.16 [海洋系列] Beaumaris Beach (澳洲墨尔本)](https://2808118.github.io/myhike/hiking/2022/10/16/海洋系列-Beamauris-Beach.html)
 
+[4. 2022.10.23 [登山系列] Churchill Park (澳洲墨尔本)](https://2808118.github.io/myhike/hiking/2022/10/22/登山系列-Churchill-National-Park.html)
+
 **2022年09月**
 
  [1. 2022.09.04 活动信息｜澳洲墨尔本｜海滩徒步系列 - Brighton Beach](http://mp.weixin.qq.com/s?__biz=MzUxOTkxNjMwOA==&mid=2247484887&idx=1&sn=0ac1c26615f42f2a8bfa5de6650e3f2d&chksm=f9f31bacce8492ba566188217e312eb29b93f333f2b650b313fba42171b23d0ea55c531fa0f0&scene=21#wechat_redirect) 
