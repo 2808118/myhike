@@ -58,12 +58,12 @@ ________________________________________________________________________________
 **1. Churchill Park**
 
 ![6421666355427_ pic_hd](https://user-images.githubusercontent.com/90954432/197325655-db042ee2-c6ab-41d2-9be7-66914a45e300.jpg)
-![6451666355500_ pic_hd](https://user-images.githubusercontent.com/90954432/197325660-a6825b91-f67b-4f56-9825-a0ad915efbb8.jpg)
+![6441666355462_ pic_hd](https://user-images.githubusercontent.com/90954432/197325667-41a8ea90-7d35-427e-8496-9e43eb891b01.jpg)
 ![6431666355449_ pic_hd](https://user-images.githubusercontent.com/90954432/197325664-40fec9e3-2909-47c3-991c-2a9e6a2149f0.jpg)
 
 **2. Trig Point**
 
-![6441666355462_ pic_hd](https://user-images.githubusercontent.com/90954432/197325667-41a8ea90-7d35-427e-8496-9e43eb891b01.jpg)
+![6451666355500_ pic_hd](https://user-images.githubusercontent.com/90954432/197325660-a6825b91-f67b-4f56-9825-a0ad915efbb8.jpg)
 _______________________________________________________________________________________________
 
 **往期回顾：**
