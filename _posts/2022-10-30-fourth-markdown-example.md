@@ -101,18 +101,18 @@ ________________________________________________________________________________
 
 <p align="center">
   <img width="543" alt="大袋鼠活动准则20190430" src="https://user-images.githubusercontent.com/90954432/197184791-50268d4a-839c-42a5-b42f-957043f80b9d.png">
-</p>
-<p align="center">
   <img width="543" src="https://user-images.githubusercontent.com/90954432/197324665-50cd9f62-c0ab-43f9-9af6-cb9b86d9ff70.png" alt="declaration">
 </p>
-_______________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________________________________________________
 
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/90954432/197184555-b5b5ec10-1b51-4814-ba33-082bf7925316.jpg" alt="SQ logo">
+  <img width="200" src="https://user-images.githubusercontent.com/90954432/197332354-e65465c3-5a13-4bf3-b311-cd253cb89349.jpeg" alt="SQ logo">
 </p>
 
 <p align="center">
   <strong>扫码入群，添加微信：</strong>
+  <br>
   <br>
   <strong>fund6787</strong>
 </p>
