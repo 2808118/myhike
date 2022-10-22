@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022.10.23 <登山系列> Churchill Park (澳洲墨尔本)
+title: 2022.10.23 <登山系列> Dandenong Mountain (澳洲墨尔本)
 tags: 登山徒步
 categories: Hiking
 ---
