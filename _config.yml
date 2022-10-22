@@ -1,9 +1,9 @@
 # Site settings
 title: 大袋鼠徒步俱乐部 - Bigroo Hiking Club
 author:
-  name: Uncle Nick
+  name: 韩家康
   email: h2808118@hotmail.com
-description: "Hiking in the south!"
+description: "Hike in the south!"
 
 # Build settings
 remote_theme: jekyll/minima
