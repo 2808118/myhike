@@ -101,9 +101,10 @@ ________________________________________________________________________________
 
 <p align="center">
   <img width="543" alt="大袋鼠活动准则20190430" src="https://user-images.githubusercontent.com/90954432/197184791-50268d4a-839c-42a5-b42f-957043f80b9d.png">
-  <img width="200" src="https://user-images.githubusercontent.com/90954432/197324665-50cd9f62-c0ab-43f9-9af6-cb9b86d9ff70.png" alt="declaration">
 </p>
-
+<p align="center">
+  <img width="543" src="https://user-images.githubusercontent.com/90954432/197324665-50cd9f62-c0ab-43f9-9af6-cb9b86d9ff70.png" alt="declaration">
+</p>
 _______________________________________________________________________________________________
 
 <p align="center">
