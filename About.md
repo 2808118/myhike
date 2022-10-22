@@ -25,12 +25,17 @@ title: 关于徒步
 最简单、最单纯的关系，是最容易维持的。
 
 我们把人与人之间的关系定义为"**徒步关系**"，用这份简单留给每个参与的人们一段值得回味的经历。
+
 <img src="https://user-images.githubusercontent.com/90954432/197324903-4459c6d9-891b-4428-bc24-39882ba047e2.png" alt="Ahead" style="width:220;">
+
 ### 2. 大袋鼠宪法
 <img src="https://user-images.githubusercontent.com/90954432/197324644-300c3dfb-3a6b-44f8-80c0-af353cbe6ecc.png" alt="Law" style="width:220;">
+
 ### 3. 大袋鼠倡议
 <img src="https://user-images.githubusercontent.com/90954432/197324665-50cd9f62-c0ab-43f9-9af6-cb9b86d9ff70.png" alt="encourage" style="width:220;">
-__________
+
+_________
+
 @Melbourne
 <br>
 2022年10月22日
