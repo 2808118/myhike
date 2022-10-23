@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/90954432/197384033-b19a4389-6557-4d8b-
 
 [3. 2022.10.16 [海洋系列] Beaumaris Beach (澳洲墨尔本)](https://2808118.github.io/myhike/hiking/2022/10/16/海洋系列-Beamauris-Beach.html)
 
-[4. 2022.10.23 [海洋系列] Churchill Park (澳洲墨尔本)](https://2808118.github.io/myhike/hiking/2022/10/16/海洋系列-Beamauris-Beach.html)
+[4. 2022.10.23 [海洋系列] Churchill Park (澳洲墨尔本)](https://2808118.github.io/myhike/hiking/2022/10/22/登山系列-Churchill-National-Park.html)
 
 **2022年09月**
 
