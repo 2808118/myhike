@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022.10.30 <登山系列> Dandenong Mountain (澳洲墨尔本)
+title: 2022.10.29 <海洋系列> Brighton Area (澳洲墨尔本)
 tags: 登山徒步
 categories: Hiking
 ---
@@ -12,21 +12,21 @@ categories: Hiking
 
 > 活动名称：登山徒步系列 - Dandenong Mountain
 
-> 活动时间：2022.10.30（周日早8：30）
+> 活动时间：2022.10.29（周日早8：30）
 
-> 活动类型：登山徒步
+> 活动类型：海洋徒步
 
-> 风景推荐星级：四颗星（好）
+> 风景推荐星级：五颗星（好）
 
-> 难易程度：中等，有爬升，需要控制速度，保证体力
+> 难易程度：简单
 
 > 徒步长度：约10公里。
 
 > 徒步时间：徒步时间预计2小时
 
-> 起点：Dandenong Mountain Carpark
+> 起点：Middle Brighton Beach Carpark
 
-> 终点：Dandenong Mountain Carpark
+> 终点：Middle Brighton Beach Carpark
 
 > 费用：5澳币
 
@@ -34,11 +34,13 @@ categories: Hiking
 
 **二、徒步活动路线：**
 
-> 这是一个靠近Lyterfield Park的丘陵地带，以前从没去过，景色逊色于Lysterfield Park，但是也是很有意思的一个地段，主要是爬山。
+> Brighton海滩是墨尔本备受游客喜欢的旅游地点。距离市区近，海水清澈，海滩干净，还有网红彩色小房子，都吸引了很多游客前来。
 
-> 爬到山顶上，能看到周围的山谷，视野很是宽阔。因为路线都是位于密林中，空气质量很清新，适合早上和周末的徒步锻炼活动。
+> 对于我们来说，这里太熟悉了，已经失去了吸引游客的魅力。不过，这个海滩距离Brighton的商业街Church Street非常近，来这里徒步，还能够途径这条商业街，顺便采购一下。
 
-![Hiking Route](https://user-images.githubusercontent.com/90954432/197325605-82c56c4a-5c3f-4eb0-b356-8da5d73d697f.jpg)
+> 安排的这条路线，不但能够欣赏墨尔本近郊的白云蓝天，绿色草坪，清澈的大海，还能够穿过Brighton的商业街区，和住宅区域，欣赏一下各种风格的房子。
+
+![Hiking Route](https://user-images.githubusercontent.com/90954432/198819762-49feca31-45e3-4fa7-8ce8-144f70c53af7.jpg)
 
 **三、出发地点：**
 
@@ -46,7 +48,7 @@ categories: Hiking
 
 Churchill National Park Carpark（红框部分）
 
-![Parking](https://user-images.githubusercontent.com/90954432/197325618-975095eb-adf5-466e-90ae-3cbfe37cd064.jpg)
+![Parking](https://user-images.githubusercontent.com/90954432/198819746-28319142-4f78-49b5-8beb-34c5356e6673.jpg)
 
 2. 公共交通
 
@@ -56,15 +58,19 @@ Churchill National Park Carpark（红框部分）
 
 **四、主要景点**
 
-> **1. Churchill Park**
+> **1. Middle Park Beach**
+> 
+![6801667025630_ pic_hd](https://user-images.githubusercontent.com/90954432/198819833-800019e4-cb93-4d58-841d-6f4e3c6aa24d.jpg)
 
-![6421666355427_ pic_hd](https://user-images.githubusercontent.com/90954432/197325655-db042ee2-c6ab-41d2-9be7-66914a45e300.jpg)
-![6441666355462_ pic_hd](https://user-images.githubusercontent.com/90954432/197325667-41a8ea90-7d35-427e-8496-9e43eb891b01.jpg)
-![6431666355449_ pic_hd](https://user-images.githubusercontent.com/90954432/197325664-40fec9e3-2909-47c3-991c-2a9e6a2149f0.jpg)
+![6811667025644_ pic_hd](https://user-images.githubusercontent.com/90954432/198819835-3e484cfc-3c4e-4a91-8750-bb155340d8f8.jpg)
 
-> **2. Trig Point**
+> **2. Sandringham Beach**
 
-![6451666355500_ pic_hd](https://user-images.githubusercontent.com/90954432/197325660-a6825b91-f67b-4f56-9825-a0ad915efbb8.jpg)
+![6821667025714_ pic_hd](https://user-images.githubusercontent.com/90954432/198819838-3af7c9d1-dbc5-48a9-833e-49511bb947fa.jpg)
+
+> **3. Church Street**
+
+![6831667025801_ pic_hd](https://user-images.githubusercontent.com/90954432/198819839-fbbdd632-b862-4ab4-829c-83d36e6f313e.jpg)
 
 ---
 
@@ -129,5 +135,5 @@ Churchill National Park Carpark（红框部分）
   <br>
   <strong>@Melbourne</strong>
   <br>
-  <strong>2022.10.28</strong>
+  <strong>2022.10.29</strong>
 </p>
