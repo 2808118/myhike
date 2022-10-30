@@ -36,47 +36,45 @@ categories: Hiking
 
 > Brighton海滩是墨尔本备受游客喜欢的旅游地点。距离市区近，海水清澈，海滩干净，还有网红彩色小房子，都吸引了很多游客前来。
 
-> 对于我们来说，这里太熟悉了，已经失去了吸引游客的魅力。不过，这个海滩距离Brighton的商业街Church Street非常近，来这里徒步，还能够途径这条商业街，顺便采购一下。
-
-> 安排的这条路线，不但能够欣赏墨尔本近郊的白云蓝天，绿色草坪，清澈的大海，还能够穿过Brighton的商业街区，和住宅区域，欣赏一下各种风格的房子。
-
 ![Hiking Route](https://user-images.githubusercontent.com/90954432/198819762-49feca31-45e3-4fa7-8ce8-144f70c53af7.jpg)
-
-**三、出发地点：**
-
-1. 自驾
-
-Churchill National Park Carpark（红框部分）
-
-![Parking](https://user-images.githubusercontent.com/90954432/198819746-28319142-4f78-49b5-8beb-34c5356e6673.jpg)
-
-2. 公共交通
-
-最好驾车前往。
 
 ---
 
-**四、主要景点**
+**三、主要景点**
 
 > **1. Middle Park Beach**
 
 ![28041667104465_ pic](https://user-images.githubusercontent.com/90954432/198862775-8bc8c43d-989f-4daa-a287-e248f6e842f3.jpg)
 ![28051667104467_ pic](https://user-images.githubusercontent.com/90954432/198862777-def81254-2820-4b47-b08d-247fda2b5a3d.jpg)
 ![28061667104468_ pic](https://user-images.githubusercontent.com/90954432/198862779-a3dd6a3a-7ee3-49b8-be34-9f7156da3a3b.jpg)
+![6871667104898_ pic](https://user-images.githubusercontent.com/90954432/198862968-68ddeb2c-d7bd-4bad-b715-721413cb633d.jpg)
+![6881667104899_ pic](https://user-images.githubusercontent.com/90954432/198862970-74b73c8d-6440-423f-9361-aa9c5b1db3d7.jpg)
+![6891667104901_ pic](https://user-images.githubusercontent.com/90954432/198862972-6e01d651-a226-4865-ac41-6afa6153269e.jpg)
+![6901667104902_ pic](https://user-images.githubusercontent.com/90954432/198862975-3da91f97-a908-4fb7-86a4-7d13305ce956.jpg)
 
 > **2. Sandringham Beach**
 
 ![28071667104469_ pic](https://user-images.githubusercontent.com/90954432/198862784-9d637c44-5506-441d-88bc-717c27f153fe.jpg)
 ![28081667104472_ pic](https://user-images.githubusercontent.com/90954432/198862785-47ed5324-987f-40e8-baf2-feafd047303f.jpg)
+![6931667104907_ pic](https://user-images.githubusercontent.com/90954432/198862985-51728831-952f-4dba-9bc9-9a57e8242a36.jpg)
+![6911667104904_ pic](https://user-images.githubusercontent.com/90954432/198862981-f6a0b32d-d1d7-401e-8395-a8262e535452.jpg)
+![7001667104916_ pic](https://user-images.githubusercontent.com/90954432/198862992-4682a4d1-dac5-4caa-84d8-daaf0c2b17d1.jpg)
+![7011667104918_ pic](https://user-images.githubusercontent.com/90954432/198862993-5568791a-b94b-478a-8bfc-34521f1ad6d8.jpg)
+![7021667104919_ pic](https://user-images.githubusercontent.com/90954432/198862998-4493bd63-35dc-429e-a42b-72ed813cea5a.jpg)
 
 > **3. Church Street**
 
 ![28091667104474_ pic](https://user-images.githubusercontent.com/90954432/198862788-b4f36351-a06c-452f-bdf3-0fe71794e404.jpg)
 ![28101667104476_ pic](https://user-images.githubusercontent.com/90954432/198862790-e45cf2ee-43c4-4f91-a450-2d4e5aab1948.jpg)
+![7031667104921_ pic](https://user-images.githubusercontent.com/90954432/198863000-41854ccc-f4d8-437d-9fb8-c7daefd6c8b1.jpg)
+![7051667104924_ pic](https://user-images.githubusercontent.com/90954432/198863001-0eee4ec0-4502-4164-9499-d86e798d3d05.jpg)
+![7061667104926_ pic](https://user-images.githubusercontent.com/90954432/198863004-9f941906-b0b3-4559-a9f3-dfcd763e00ea.jpg)
+![7071667104928_ pic](https://user-images.githubusercontent.com/90954432/198863005-d7803688-3cae-4b13-a521-a1effee5b46f.jpg)
+![7081667104929_ pic](https://user-images.githubusercontent.com/90954432/198863007-2eaf5fde-b102-49ef-b100-66416911de2f.jpg)
 
 ---
 
-**五. 往期回顾：**
+**四. 往期回顾：**
 
 **2022年10月**
 
