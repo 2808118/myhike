@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022.10.29 <海洋系列> Brighton Area (澳洲墨尔本)
+title: 2022.10.30 <海洋系列> Brighton Area (澳洲墨尔本)
 tags: 登山徒步
 categories: Hiking
 ---
@@ -10,7 +10,7 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：登山徒步系列 - Dandenong Mountain
+> 活动名称：海洋徒步系列 - Brighton Area
 
 > 活动时间：2022.10.30（周日早8：30）
 
