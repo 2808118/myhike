@@ -10,7 +10,7 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：海洋徒步系列 - Brighto Area
+> 活动名称：海洋徒步系列 - Brighton Area
 
 > 活动时间：2022.10.30（周日早8：30）
 
@@ -137,5 +137,5 @@ Churchill National Park Carpark（红框部分）
   <br>
   <strong>@Melbourne</strong>
   <br>
-  <strong>2022.10.29</strong>
+  <strong>2022.10.30</strong>
 </p>
