@@ -48,7 +48,7 @@ categories: Hiking
 
 > **公共交通：**
 
-New Port Station下车，步行到Science Work Museum CarPark。
+> New Port Station下车，步行到Science Work Museum CarPark。
 
 ---
 
