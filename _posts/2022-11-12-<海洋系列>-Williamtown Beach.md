@@ -28,8 +28,7 @@ categories: Hiking
 
 > 终点：Scienceworks Museum Car Park
 
-> 费用：5澳币![7601668209061_ pic_hd](https://user-images.githubusercontent.com/90954432/201450924-32727ed7-c3a9-45fc-8d1c-5e65fb1543aa.jpg)
-
+> 费用：5澳币
 
 ---
 
@@ -63,7 +62,6 @@ New Port Station下车，步行到Science Work Museum CarPark。
 
 > **2. Gem Beach**
 
-![7591668208994_ pic_hd](https://user-images.githubusercontent.com/90954432/201450921-053c343e-8e6e-49f3-8462-6dfc569cf2a7.jpg)
 ![7601668209061_ pic_hd](https://user-images.githubusercontent.com/90954432/201450932-ff1b237b-f55e-41dc-8e0e-42b394a60fca.jpg)
 ![7611668209081_ pic_hd](https://user-images.githubusercontent.com/90954432/201450935-98f79a8b-bebc-444a-a4f6-ad6901f5ba7b.jpg)
 
