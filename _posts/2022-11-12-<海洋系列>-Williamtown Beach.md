@@ -124,8 +124,7 @@ New Port Station下车，步行到Science Work Museum CarPark。
   <img width="200" src="https://user-images.githubusercontent.com/90954432/197332354-e65465c3-5a13-4bf3-b311-cd253cb89349.jpeg" alt="SQ logo">
 </p>
 
-<p align="ce![7611668209081_ pic_hd](https://user-images.githubusercontent.com/90954432/201450925-606d052d-3a19-4c1f-bdbb-71a9cf7dce9e.jpg)
-nter">
+<p align="center">
   <strong>扫码入群，添加微信：</strong>
   <br>
   <br>
@@ -141,5 +140,5 @@ nter">
   <br>
   <strong>@Melbourne</strong>
   <br>
-  <strong>2022.11.13</strong>
+  <strong>2022.11.12</strong>
 </p>
