@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2023.03.25 <海洋系列> Beaumaris Beach (澳洲墨尔本)
-tags: 海洋徒步
+title: 2023.03.25 <大陆系列> Yarra Bend Loop (澳洲墨尔本)
+tags: 大陆徒步
 categories: Hiking
 ---
 <p align="center">
