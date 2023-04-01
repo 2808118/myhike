@@ -143,9 +143,9 @@ Spotted Gum Car Park（红框部分）
   <strong>宜观星辰辨南北，勿随萤火逐东西</strong>
 </p>
 
-<p align="right" style="color:blue">
+<p align="right" style="color:red">
   <strong>韩家康</strong>
   <br>
-  <strong sytle="color:red">@Melbourne</strong>
+  <strong>@Melbourne</strong>
   <br>
 </p>
