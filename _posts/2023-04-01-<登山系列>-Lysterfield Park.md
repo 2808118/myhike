@@ -133,14 +133,14 @@ Spotted Gum Car Park（红框部分）
 </p>
 
 <p align="center">
-  <strong>扫码入群，添加微信：</strong>
+  <strong><a href="#" style="color:green">扫码入群，添加微信：</a></strong>
   <br>
   <br>
-  <strong>fund6787</strong>
+  <strong><a href="#" style="color:green">fund6787</a></strong>
 </p>
 
 <p align="center">
-  <strong>宜观星辰辨南北，勿随萤火逐东西</strong>
+  <strong><a href="#" style="color:yellow">宜观星辰辨南北，勿随萤火逐东西</a></strong>
 </p>
 
 <p align="right" style="color:red">
