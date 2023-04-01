@@ -140,12 +140,12 @@ Spotted Gum Car Park（红框部分）
 </p>
 
 <p align="center">
-  <strong><a href="#" style="color:yellow">宜观星辰辨南北，勿随萤火逐东西</a></strong>
+  <strong><a href="#" style="color:green">宜观星辰辨南北，勿随萤火逐东西</a></strong>
 </p>
 
-<p align="right" style="color:red">
-  <strong><a href="#" style="color:red">韩家康</a></strong>
+<p align="right" style="color:blue">
+  <strong><a href="#" style="color:blue">韩家康</a></strong>
   <br>
-  <strong><a href="#" style="color:red">@Melbourne</a></strong>
+  <strong><a href="#" style="color:blue">@Melbourne</a></strong>
   <br>
 </p>
