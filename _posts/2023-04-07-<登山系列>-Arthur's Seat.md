@@ -34,9 +34,19 @@ categories: Hiking
 
 **二、徒步活动路线：**
 
-这里是墨尔本近郊
+这里是墨尔本近郊，风景优美的一处山脉。
 
+面朝广阔的飞利浦湾，几乎可以纵览整个海湾。
 
+天晴时候，一面欣赏蓝色的大海，白色的白云，一面登山锻炼身体，享受清爽的空气，非常舒适。
+
+之所以选择这里，是为了欣赏秋天的公园。
+
+在Arthur's seat lookout旁边的山顶上，有一处维护很好的公园，有各种树木，秋天时候，会变幻出不同的色彩。
+
+这条路线略有爬升，登山之余，还能赏海，还能欣赏瀑布，还能近距离接触野生动物，还能坐缆车。
+
+路线的变幻很丰富，丰富的路线，总是不会令人失望。
 
 ![Arthur's seat](https://user-images.githubusercontent.com/90954432/230599401-9d4a3590-85a3-49e8-b849-5bc716b76ede.jpg)
 
@@ -46,9 +56,15 @@ categories: Hiking
 
 Arthur's seat lookout（红框部分）
 
+
 ![Arthus's seat Car Park](https://user-images.githubusercontent.com/90954432/230599603-90d40f1c-58cc-48e5-8b69-134b9c04dd6e.jpg)
 
+这里提醒一下，最好提前从M11出口下来，从山后面的路开车上来，如果直接走到山脚下，从山前面开上来，小路非常陡峭，不容易开。
+
+![2151680866382_ pic](https://user-images.githubusercontent.com/90954432/230600395-80cbbfcc-564b-41cd-b831-37a124af65d5.jpg)
+
 2. 公共交通
+
 
 不适合
 
