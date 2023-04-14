@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023.04.09 <登山系列> Arthur's Seat (澳洲墨尔本)
+title: 2023.04.09 <高山系列> Arthur's Seat (澳洲墨尔本)
 tags: 登山徒步
 categories: Hiking
 ---
@@ -10,7 +10,7 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：登山徒步系列 - Arthur's Seat
+> 活动名称：高山系列 - Arthur's Seat
 
 > 活动时间：周日早8：30
 
