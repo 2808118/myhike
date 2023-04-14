@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023.04.16 <登山系列> Arthur's Seat (澳洲墨尔本)
+title: 2023.04.16 <尘世系列> Botanic garden (澳洲墨尔本)
 tags: 登山徒步
 categories: Hiking
 ---
@@ -10,7 +10,7 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：城市徒步系列 - Botanic garden
+> 活动名称：尘世徒步系列 - Botanic garden
 
 > 活动时间：周日早8：30
 
