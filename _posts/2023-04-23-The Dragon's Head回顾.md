@@ -62,14 +62,6 @@ No 16 Beach Park， Rye（红框部分）
 
 **四、主要景点**
 
-https://user-images.githubusercontent.com/90954432/234435354-e8be7855-21c5-4d4f-9a52-71176b69b765.mp4
-
-https://user-images.githubusercontent.com/90954432/234436381-dbd47895-5547-4eab-9255-c19fc29a2162.mp4
-
-https://user-images.githubusercontent.com/90954432/234436393-c631899a-379e-4d12-8546-35ba49bfbac6.mp4
-
-https://user-images.githubusercontent.com/90954432/234435386-9b24e3f5-606e-432e-9383-ca936ee51a40.mp4
-
 ![2731682468236_ pic](https://user-images.githubusercontent.com/90954432/234435455-317140db-88c4-4786-87cf-033d38d3ffa9.jpg)
 ![2741682468238_ pic](https://user-images.githubusercontent.com/90954432/234435463-faa4ec0a-7668-4af4-8d48-a09579f0d891.jpg)
 ![2751682468242_ pic](https://user-images.githubusercontent.com/90954432/234435478-aa4f4ecd-bd24-43c8-98b1-841a1544284b.jpg)
