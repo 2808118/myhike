@@ -62,7 +62,31 @@ No 16 Beach Park， Rye（红框部分）
 
 **四、主要景点**
 
+https://user-images.githubusercontent.com/90954432/234435354-e8be7855-21c5-4d4f-9a52-71176b69b765.mp4
 
+https://user-images.githubusercontent.com/90954432/234435386-9b24e3f5-606e-432e-9383-ca936ee51a40.mp4
+
+![2731682468236_ pic](https://user-images.githubusercontent.com/90954432/234435455-317140db-88c4-4786-87cf-033d38d3ffa9.jpg)
+![2741682468238_ pic](https://user-images.githubusercontent.com/90954432/234435463-faa4ec0a-7668-4af4-8d48-a09579f0d891.jpg)
+![2751682468242_ pic](https://user-images.githubusercontent.com/90954432/234435478-aa4f4ecd-bd24-43c8-98b1-841a1544284b.jpg)
+![2771682468246_ pic](https://user-images.githubusercontent.com/90954432/234435491-7f1e0366-cc6e-4b6f-bd86-7a8459c9a092.jpg)
+![2781682468249_ pic](https://user-images.githubusercontent.com/90954432/234435494-7c9dd156-19e1-40bf-b401-3a728b6e96d3.jpg)
+![2791682468251_ pic](https://user-images.githubusercontent.com/90954432/234435504-c19c7786-5028-48dd-9950-0f67ab671a0b.jpg)
+![2801682468253_ pic](https://user-images.githubusercontent.com/90954432/234435507-465e0216-4abe-4aa2-91c7-81a3fc7bb1ca.jpg)
+![2811682468256_ pic](https://user-images.githubusercontent.com/90954432/234435525-828c5974-c3e9-4eb9-953c-d37b9339f292.jpg)
+![2821682468262_ pic](https://user-images.githubusercontent.com/90954432/234435537-d21411c0-0314-4460-b8ad-c10e376d8c38.jpg)
+![2831682468264_ pic](https://user-images.githubusercontent.com/90954432/234435548-8e0216fe-dc53-476d-9e0e-5dc1b7a8f6e9.jpg)
+![2841682468267_ pic](https://user-images.githubusercontent.com/90954432/234435567-c12d7610-c12b-4a15-8776-68130c2d270b.jpg)
+![2851682468269_ pic](https://user-images.githubusercontent.com/90954432/234435572-8f48bd4d-3703-42e8-a5c4-96fbc1b9f655.jpg)
+![2861682468272_ pic](https://user-images.githubusercontent.com/90954432/234435578-0e79d6f4-ed38-49aa-8043-88dc50ec8f7d.jpg)
+![2871682468275_ pic](https://user-images.githubusercontent.com/90954432/234435585-0c6e5fc7-da9b-468d-802d-f33b899f3cc6.jpg)
+![2881682468278_ pic](https://user-images.githubusercontent.com/90954432/234435594-9f7eaeed-52be-4133-a03b-1c09996335bb.jpg)
+![2891682468283_ pic](https://user-images.githubusercontent.com/90954432/234435596-b62ca388-b193-467a-8107-8aef9c2b018f.jpg)
+![2901682468285_ pic](https://user-images.githubusercontent.com/90954432/234435605-b07b1134-bb6e-4985-88d8-e5da9c44d05e.jpg)
+![2911682468288_ pic](https://user-images.githubusercontent.com/90954432/234435615-13caf36e-ac79-4b79-a57f-013845812d0f.jpg)
+![2921682468290_ pic](https://user-images.githubusercontent.com/90954432/234435618-315f2af9-f01a-4814-b74e-ae2062a0800c.jpg)
+![2931682468293_ pic](https://user-images.githubusercontent.com/90954432/234435627-aa2b3448-9030-4019-bb9e-5d1077563309.jpg)
+![2941682468297_ pic](https://user-images.githubusercontent.com/90954432/234435632-622f60de-1611-40b8-8819-9725852fb27a.jpg)
 
 ---
 
