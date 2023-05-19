@@ -59,7 +59,6 @@ Plenty Gorge Upper Carpark
 **四、主要景点**
 
 **1. Yellow gum park**
-![3541684469846_ pic](https://github.com/2808118/myhike/assets/90954432/a8cbfc26-f79f-4f52-b313-d25298009ba3)
 ![3581684469990_ pic](https://github.com/2808118/myhike/assets/90954432/1ebb7435-9416-4431-b43c-5a648cd86864)
 ![3611684470037_ pic](https://github.com/2808118/myhike/assets/90954432/31d93e82-dd55-4191-88c7-5476acec6230)
 
