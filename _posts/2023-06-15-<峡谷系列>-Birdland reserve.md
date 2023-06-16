@@ -124,10 +124,9 @@ Logan park rd carpark（红框部分）
   <strong><a href="#" style="color:green">宜观星辰辨南北，勿随萤火逐东西</a></strong>
 </p>
 
-<p align="right">
+<p align="center">
   <img width="250" src="https://github.com/2808118/myhike/assets/90954432/4d07e79b-8027-4e12-9e0b-dc3d43018cf9).jpeg">
 </p>
-
 <p align="right" style="color:blue">
   <strong><a href="#" style="color:blue">韩家康</a></strong>
   <br>
