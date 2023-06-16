@@ -8,6 +8,10 @@ categories: Hiking
   <img width="250" src="https://user-images.githubusercontent.com/90954432/197183769-043b3cce-ffc5-439d-b355-fc227af37705.jpeg">
 </p>
 
+<p align="center">
+  <img width="250" src="https://github.com/2808118/myhike/assets/90954432/4d07e79b-8027-4e12-9e0b-dc3d43018cf9).jpeg">
+</p>
+
 **1. 徒步活动简介：**
 
 > 活动名称：峡谷徒步系列 - Birdland reserve
