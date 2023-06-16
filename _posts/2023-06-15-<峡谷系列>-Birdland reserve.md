@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2023.05.07 <大海系列> Ormond Point (澳洲墨尔本)
-tags: 大海徒步
+title: 2023.05.18 <峡谷系列> Birdland reserve (澳洲墨尔本)
+tags: 峡谷徒步
 categories: Hiking
 ---
 <p align="center">
@@ -10,7 +10,7 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：大海徒步系列 - ormond Point
+> 活动名称：峡谷徒步系列 - Birdland reserve
 
 > 活动时间：周日早8：30
 
@@ -18,13 +18,9 @@ categories: Hiking
 
 > 难易程度：中等强度，需要控制速度，有爬升
 
-> 徒步长度：约11.3公里。
+> 徒步长度：约10.3公里。
 
-> 徒步时间：徒步时间预计2小时
-
-> 起点：Gardenvale Station
-
-> 终点：Gardenvale Station
+> 徒步时间：徒步时间预计2小时22分钟
 
 > 费用：5澳币
 
@@ -32,50 +28,45 @@ categories: Hiking
 
 **二、徒步活动路线：**
 
-这是一条独特的路线，从brighton附近的车站出发，沿着只有当地人才知道的一条小溪，一路穿越墨尔本的近郊街道，到达ormond point。
+这条线，靠近著名的锻炼景区lysterfield park。
 
-从狭窄的，古老的街道，来到开阔的海岸线，有一种突然豁达的感觉。
+因为路线不是很长，常常为人们所忽略。
 
-沿着海岸线，一直向市区徒步，可以尽览飞利浦湾的全景。
+但是它独特的地理位置，可以俯视这个山谷，走起来让人心旷神怡。
 
-由于沿途都是著名的海滩区域，市政规划非常好，走起来很舒服。
+每次开车到这附近来，总看到两边有很多山谷草原，气势开阔，连绵不断，但是没有找到合适的路线，这条路线算是弥补了这个遗憾。
 
-最后，来到著名的st kilda pier。st kilda的出名，主要是在这附近的一些野生动物，如果能够赶上傍晚的时间，来到这里，能看到不少有意思的小动物。
-
-这条路线，不但有出名的海景，街道里的风景同样优秀，因为是古老的社区，有很多有意思的老房子，古老的风格，现代的时光，在历史与现实中不断穿梭。
-
-![3401683362791_ pic](https://user-images.githubusercontent.com/90954432/236616422-f44aee1d-2870-41fd-bd07-3dc5dd4e1afe.jpg)
+![4171686882361_ pic](https://github.com/2808118/myhike/assets/90954432/e2de3113-9d0c-4bab-8b08-e365db2ce695)
 
 **三、出发地点：**
 
 1. 自驾
 
-Gardenvale Station（红框部分）
+Logan park rd carpark（红框部分）
 
-![3411683362889_ pic](https://user-images.githubusercontent.com/90954432/236616465-4d592883-ac26-4ea0-9aba-9d033ab8110d.jpg)
+![4161686882251_ pic](https://github.com/2808118/myhike/assets/90954432/5fdc7df6-a5f8-4ff7-845a-9113b2b92506)
 
 2. 公共交通
 
-Gardenvale Station
+最好自驾或者拼车。
 
 ---
 
 **四、主要景点**
 
-**1. Elsternwick park**
-![3421683362930_ pic](https://user-images.githubusercontent.com/90954432/236616568-909c74e2-2d52-4909-bdd4-8190eea1e5ea.jpg)
-![3431683362946_ pic](https://user-images.githubusercontent.com/90954432/236616570-6d32adab-60eb-478c-88ff-7f87d61b8549.jpg)
-![3441683362983_ pic](https://user-images.githubusercontent.com/90954432/236616573-6ecf76b7-453d-4161-bffd-ffdd375fd015.jpg)
+**1. Granite Track Summit**
+![4181686882428_ pic](https://github.com/2808118/myhike/assets/90954432/8187c1b4-7258-45ef-88b0-bfd3229c63a0)
+![4191686882448_ pic](https://github.com/2808118/myhike/assets/90954432/93fe2747-e96a-44a0-b87f-0f1d217597b1)
+![4201686882462_ pic](https://github.com/2808118/myhike/assets/90954432/e3465777-cd76-4fc1-801d-2fba31f5c954)
+![4211686882477_ pic](https://github.com/2808118/myhike/assets/90954432/ecbdc0e9-604f-4800-a5f5-5071e9620d13)
 
-**2. Ormond Point**
-![3451683363055_ pic](https://user-images.githubusercontent.com/90954432/236616580-6b2f7f8c-ae9e-43ca-a31b-9aa0c1c4b40c.jpg)
-![3461683363083_ pic](https://user-images.githubusercontent.com/90954432/236616583-b3e02f0c-ef88-4191-ad04-6f9d5a20f2a3.jpg)
 
-**3. St kilda pier**
-![3481683363133_ pic](https://user-images.githubusercontent.com/90954432/236616596-f48be9dc-015b-4395-8992-dbb721dfb690.jpg)
-![3491683363192_ pic](https://user-images.githubusercontent.com/90954432/236616601-d342f9a2-0136-4490-a072-1193722a1818.jpg)
-![3501683363207_ pic](https://user-images.githubusercontent.com/90954432/236616603-512702d0-fc1a-4447-b0f5-76ec4869f8a9.jpg)
-![3471683363116_ pic](https://user-images.githubusercontent.com/90954432/236616598-41c7a4e2-e413-4958-922f-ad2e0c52b511.jpg)
+**2. Birdland reserve**
+![4221686882509_ pic](https://github.com/2808118/myhike/assets/90954432/ca40085a-5d30-4b84-a3b4-96778f91b05a)
+![4231686882540_ pic](https://github.com/2808118/myhike/assets/90954432/a1c066a0-1c6a-4fb2-91cd-f6e526277e60)
+![4241686882563_ pic](https://github.com/2808118/myhike/assets/90954432/5cd3b847-26d1-4fc6-8256-ecc77438dbd6)
+![4251686882577_ pic](https://github.com/2808118/myhike/assets/90954432/1c22ebaf-f878-4e07-9647-44bd4d6c2c91)
+![4261686882592_ pic](https://github.com/2808118/myhike/assets/90954432/aea6b658-a1f9-4282-ad16-9d4f7d2e959c)
 
 ---
 
