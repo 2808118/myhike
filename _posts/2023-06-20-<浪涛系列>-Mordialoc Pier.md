@@ -117,7 +117,7 @@ categories: Hiking
 </p>
 
 <p align="center">
-  <img width="250" src="https://github.com/2808118/myhike/assets/90954432/4d07e79b-8027-4e12-9e0b-dc3d43018cf9).jpeg">
+  <img width="250" src="https://github.com/2808118/myhike/assets/90954432/4d07e79b-8027-4e12-9e0b-dc3d43018cf9.jpeg">
 </p>
 <p align="right" style="color:blue">
   <strong><a href="#" style="color:blue">韩家康</a></strong>
