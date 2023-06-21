@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023.06.25 <浪涛系列> Mordialoc Pier (澳洲墨尔本)
+title: 2023.06.25 <浪涛系列> Mordialoc Creek (澳洲墨尔本)
 tags: 海岸线徒步
 categories: Hiking
 ---
@@ -10,7 +10,7 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：海岸线徒步系列 - Mordialoc Pier
+> 活动名称：海岸线徒步系列 - Mordialoc Creek
 
 > 活动时间：周日早8：30
 
