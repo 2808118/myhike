@@ -56,7 +56,7 @@ categories: Hiking
 ![4321687344362_ pic](https://github.com/2808118/myhike/assets/90954432/8db7d439-e9fc-4714-9e28-41eca4f323ad)
 ![4341687344416_ pic](https://github.com/2808118/myhike/assets/90954432/0c055379-2949-4f33-9342-539096f3e2d3)
 
-**3. Waterway Lake
+**3. Waterway Lake**
 ![4351687344453_ pic](https://github.com/2808118/myhike/assets/90954432/15a50cb4-1a57-4165-8be2-b6431a95d6bc)
 ![4361687344474_ pic](https://github.com/2808118/myhike/assets/90954432/0498b561-be66-4a31-b253-996a583485cc)
 
