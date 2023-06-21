@@ -30,13 +30,13 @@ categories: Hiking
 
 这条线，疫情期间，自己走了很多次，靠近海岸线的船坞很有特点，沿海的栈桥风景也是一绝，再加上政府精心设计修建的沿海公园和沙滩，周末来放松一下，是再好不多的地点了。
 
-
+![4271687344178_ pic](https://github.com/2808118/myhike/assets/90954432/5d7abb7c-8235-423e-bcfe-e5cf722e5809)
 
 **三、出发地点：**
 
 1. 自驾
 
-
+![4281687344246_ pic](https://github.com/2808118/myhike/assets/90954432/afced241-f3a9-4926-a65e-a3b51e14303a)
 
 2. 公共交通
 
@@ -47,13 +47,18 @@ categories: Hiking
 **四、主要景点**
 
 **1. Mordialoc Pier**
-
-
+![4291687344301_ pic](https://github.com/2808118/myhike/assets/90954432/ec67fa4e-517b-43d0-873f-168a9fc02323)
+![4301687344322_ pic](https://github.com/2808118/myhike/assets/90954432/3010d0ae-65db-463f-a308-7deb7d33b082)
+![4311687344343_ pic](https://github.com/2808118/myhike/assets/90954432/24a9f52f-fb89-4094-bfd1-7917cbfe239a)
+![4331687344380_ pic](https://github.com/2808118/myhike/assets/90954432/b7e74c95-5162-48f8-aea1-4be8172c27e2)
 
 **2. Mordialoc Creek**
+![4321687344362_ pic](https://github.com/2808118/myhike/assets/90954432/8db7d439-e9fc-4714-9e28-41eca4f323ad)
+![4341687344416_ pic](https://github.com/2808118/myhike/assets/90954432/0c055379-2949-4f33-9342-539096f3e2d3)
 
 **3. Waterway Lake
-
+![4351687344453_ pic](https://github.com/2808118/myhike/assets/90954432/15a50cb4-1a57-4165-8be2-b6431a95d6bc)
+![4361687344474_ pic](https://github.com/2808118/myhike/assets/90954432/0498b561-be66-4a31-b253-996a583485cc)
 
 ---
 
