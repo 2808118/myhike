@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2023.07.02 <浪涛系列> Dandenong Creek (澳洲墨尔本)
-tags: 海岸线徒步
+title: 2023.07.02 <高山系列> Dandenong Creek (澳洲墨尔本)
+tags: 高山徒步
 categories: Hiking
 ---
 <p align="center">
@@ -10,7 +10,7 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：海岸线徒步系列 - Mordialoc Creek
+> 活动名称：高山徒步系列 - Dandenong Creek
 
 > 活动时间：周日早8：30
 
