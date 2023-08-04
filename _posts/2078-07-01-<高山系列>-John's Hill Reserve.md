@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023.07.16 <登山系列> Sherbrook Fall (澳洲墨尔本)
+title: 2023.08.05 <登山系列> John's Hill Reserve (澳洲墨尔本)
 tags: 登山徒步
 categories: Hiking
 ---
@@ -10,21 +10,21 @@ categories: Hiking
 
 **1. 徒步活动简介：**
 
-> 活动名称：登山徒步系列 - Sherbrook Fall
+> 活动名称：登山徒步系列 - John's Hill Reserve
 
-> 活动时间：周日早8：30
+> 活动时间：周六早8：30
 
 > 风景推荐星级：六颗星（非常好）
 
 > 难易程度：中等，有爬升，需要控制速度，保证体力
 
-> 徒步长度：约8.2公里。
+> 徒步长度：约11.6公里。
 
-> 徒步时间：徒步时间预计2小时16分
+> 徒步时间：徒步时间预计2小时30分
 
-> 起点：Pound Creek Track CarPark
+> 起点：John's Hill Reserve CarPark
 
-> 终点：Pound Creek Track CarPark
+> 终点：John's Hill Reserve CarPark
 
 > 费用：5澳币
 
@@ -32,27 +32,23 @@ categories: Hiking
 
 **二、徒步活动路线：**
 
-这是一条我们的经典路线，自己走过很多次，也带着朋友们走过几次。
+这个是比较小众的一条路线，知道的人不多，但是风景的优美程度不输其他的著名景点。
 
-走起来非常舒服，夏天凉爽舒适，冬天空气清新，气候湿润，每次走完，都感觉精神和肉体都受到了滋润。
+Lookout位于一条山脊之上，可以俯瞰位于山脊南部的Cardinia水库。
 
-这天路线满眼的绿色，高耸的桉树，矮小的蕨类植物，间杂各种高个子蕨类，还有深深的峡谷，是一条世外桃源般的徒步和跑步路线。
+如果能在冬天，稍微早一点的时候，爬到观景台，说不能能看到平原的众生都笼罩在白雾里的奇妙景色。
 
-就算是没有机会一起走，也应该自己走一下。
+难度不大，爬升大约100米，分布在3-4公里的斜坡上，不需要付出很多努力，就能看到广阔的风景。
 
-我们上次和Christ，Clark一起走了本路线的下面一段，明天我们走上面的一段，略有爬升。
-
-因为近期多雨，最好穿防水耐脏的鞋子和裤子。
-
-![771a8daea05e1823335c5cf4750c8f8](https://github.com/2808118/myhike/assets/90954432/19f5a868-0cae-4928-bb27-d9477286ec66)
+![4641691127904_ pic](https://github.com/2808118/myhike/assets/90954432/7e842d94-31fe-476e-8f52-3da642cc4a5d)
 
 **三、出发地点：**
 
 1. 自驾
 
-Pound Creek Track Carpark（红圈部分）
+John's Hill Reserve Carpark（红圈部分）
 
-![c55d8e5f1be1ab19f555296287214a3](https://github.com/2808118/myhike/assets/90954432/b22777a2-ceef-4109-b883-cc79deed90be)
+![4651691127926_ pic](https://github.com/2808118/myhike/assets/90954432/95ca1ecb-a410-4e91-a535-05306e035b2b)
 
 2. 公共交通
 
@@ -69,11 +65,6 @@ Pound Creek Track Carpark（红圈部分）
 ![edaa0022d375b442fbe5208aa7762b0](https://github.com/2808118/myhike/assets/90954432/c7a20d89-48c5-476a-82c5-1809078be1b5)
 ![ee1a5f5e5892ec4ad1dac0368cd7507](https://github.com/2808118/myhike/assets/90954432/367de91d-e089-4bb8-8083-b35d0dc8ed28)
 ![f03b790fd0b36ebbb3b3ef2a8dc26d6](https://github.com/2808118/myhike/assets/90954432/9be80c27-ad72-47fb-b3d8-b44e4d447efb)
-
->**2. Ferny Creek Bushland Reserve**
-![d6f1f2f2f5f3cd285d13224d6f58d31](https://github.com/2808118/myhike/assets/90954432/03c71886-ba5f-42ff-98a8-f45816a47fb4)
-![91b8c4637cdfcf05a84c3e57dbe66cd](https://github.com/2808118/myhike/assets/90954432/b2f0c232-7f33-42df-8ea2-324ccacaf73a)
-![fe87329a4e5367a25038c6f4bd8daa3](https://github.com/2808118/myhike/assets/90954432/27722c3e-4433-47c1-802b-542e2d7036c6)
 
 **所有图片均来自于Google**
 ---
